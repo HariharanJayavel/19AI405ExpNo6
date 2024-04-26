@@ -298,9 +298,10 @@ if __name__ == "__main__":
     main()
 ```
 <hr>
-<h2>EXACT Input and Output</h2>
+<h2>Input and Output</h2>
 <img width="1000" alt="AI 6 EXP MINIMAX output-1" src="https://github.com/HariharanJayavel/19AI405ExpNo6/assets/144870546/13403d1c-ca4a-4f18-8e05-6a9fc10d9586">
-<img width="1000" alt="AI 6 EXP MINIMAX output-2" src="https://github.com/Ganesh23013987/19AI405ExpNo6/assets/147473768/17f9b49b-03cb-453e-8090-f1190d0dc19e">
+<img width="1000" alt="AI 6 EXP MINIMAX output-1" src="https://github.com/HariharanJayavel/19AI405ExpNo6/assets/144870546/f390d223-045a-49e0-9fc5-41811908bc2c">
+
 
 
 
