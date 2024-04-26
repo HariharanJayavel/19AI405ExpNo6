@@ -302,10 +302,6 @@ if __name__ == "__main__":
 <img width="1000" alt="AI 6 EXP MINIMAX output-1" src="https://github.com/HariharanJayavel/19AI405ExpNo6/assets/144870546/13403d1c-ca4a-4f18-8e05-6a9fc10d9586">
 <img width="1000" alt="AI 6 EXP MINIMAX output-1" src="https://github.com/HariharanJayavel/19AI405ExpNo6/assets/144870546/f390d223-045a-49e0-9fc5-41811908bc2c">
 
-
-
-
-
 <hr>
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
